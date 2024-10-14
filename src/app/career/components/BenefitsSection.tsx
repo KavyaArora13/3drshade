@@ -23,7 +23,7 @@ const BenefitsSection = () => {
               <h3 className="text-2xl font-bold mb-4">{benefit}</h3>
               <p className="text-gray-300">
                 Like our design, the qualities that sets us apart are simple
-                and yet amazing. We won't promise you the world when you
+                and yet amazing. We won&apos;t promise you the world when you
                 come to work with us, but we will commit to uphold the
                 values that make 3rd shade a great place to work at.
               </p>

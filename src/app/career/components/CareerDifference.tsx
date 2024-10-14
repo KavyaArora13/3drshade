@@ -16,7 +16,7 @@ const CareerDifference = () => {
               </h2>
               <p className="text-sm sm:text-base md:text-lg leading-6 sm:leading-7 mb-6 sm:mb-8 text-black max-w-md">
                 Like our design, the qualities that sets us apart are
-                simple and yet amazing. We won't promise you the
+                simple and yet amazing. We won&apos;t promise you the
                 world when you come to work with us, but we will
                 commit to uphold the values that make 3rd shade a
                 great place to work at.
@@ -26,7 +26,7 @@ const CareerDifference = () => {
           <div className="w-full md:w-1/2">
             <p className="text-sm sm:text-base md:text-lg leading-6 sm:leading-7 mb-[50px] sm:mb-[75px] md:mb-[100px] lg:mb-[150px] text-black">
               Like our design, the qualities that sets us apart are
-              simple and yet amazing. We won't promise you the
+              simple and yet amazing. We won&apos;t promise you the
               world when you come to work with us, but we will
               commit to uphold the values that make 3rd shade a
               great place to work at.
@@ -34,7 +34,7 @@ const CareerDifference = () => {
             <div className="grid grid-cols-2 gap-2 sm:gap-4">
               <div className="aspect-square">
                 <Image
-                  src="/different-1.webp"
+                  src="/different1.jpg"
                   alt="Career hero image 1"
                   width={500}
                   height={500}
@@ -44,7 +44,7 @@ const CareerDifference = () => {
               </div>
               <div className="row-span-2">
                 <Image
-                  src="/different-img-3.webp"
+                  src="/different3.jpg"
                   alt="Career hero image 2"
                   width={500}
                   height={1000}
@@ -54,7 +54,7 @@ const CareerDifference = () => {
               </div>
               <div className="aspect-square">
                 <Image
-                  src="/different-2.webp"
+                  src="/different2.jpg"
                   alt="Career hero image 3"
                   width={500}
                   height={500}

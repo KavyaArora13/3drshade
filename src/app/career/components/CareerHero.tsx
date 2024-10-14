@@ -7,7 +7,7 @@ const CareerHero = () => {
       <div className="container mx-auto px-4 py-16 md:py-24">
         <div className="text-start mb-12">
           <h1 className="text-black text-3xl sm:text-4xl md:text-5xl lg:text-6xl 2xl:text-[50px] font-bold mb-6 leading-tight">
-            Come work at 3RD SHADE!
+            Kavya work at 3RD SHADE!
           </h1>
           <div className="inline-block relative p-[3px] bg-gradient-to-r from-pink-500 via-purple-500 to-blue-500 rounded-full animate-border-move bg-[length:200%_200%]">
             <button className="relative bg-black text-white text-lg font-semibold py-3 px-8 rounded-full">

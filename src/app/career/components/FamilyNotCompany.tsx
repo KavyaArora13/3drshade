@@ -17,7 +17,7 @@ export default function FamilyNotCompany() {
           <h2 className="text-2xl md:text-3xl lg:text-4xl xl:text-[48px] font-bold mb-4 pb-2 md:pb-4 lg:pb-6">Family, not company</h2>
           <p className="text-sm md:text-base lg:text-lg xl:text-[18px] leading-relaxed">
             Like our design, the qualities that sets us apart are simple and yet amazing. 
-            We won't promise you the world when you come to work with us, but we will 
+            We won&apos;t promise you the world when you come to work with us, but we will 
             commit to uphold the values that make 3rd shade a great place to work at.
           </p>
         </div>

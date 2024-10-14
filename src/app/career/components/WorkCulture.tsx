@@ -8,7 +8,7 @@ const WorkCulture = () => {
         <div className="work-culture-top mb-16">
           <h2 className="text-5xl font-bold mb-6">Family, not company</h2>
           <p className="text-xl mb-8 max-w-lg">
-            Like our design, the qualities that sets us apart are simple and yet amazing. We won't promise you the world when you come to work with us, but we will commit to uphold the values that make 3rd shade a great place to work at.
+            Like our design, the qualities that sets us apart are simple and yet amazing. We won&apos;t promise you the world when you come to work with us, but we will commit to uphold the values that make 3rd shade a great place to work at.
           </p>
           <div className="relative w-[75%] h-[500px]">
             <Image
@@ -24,7 +24,7 @@ const WorkCulture = () => {
           <div className="lg:w-1/2 mb-8 lg:mb-0 lg:pr-12 flex flex-col justify-center">
             <h2 className="text-5xl font-bold mb-6">Family, not company</h2>
             <p className="text-xl">
-              Like our design, the qualities that sets us apart are simple and yet amazing. We won't promise you the world when you come to work with us, but we will commit to uphold the values that make 3rd shade a great place to work at.
+              Like our design, the qualities that sets us apart are simple and yet amazing. We won&apos;t promise you the world when you come to work with us, but we will commit to uphold the values that make 3rd shade a great place to work at.
             </p>
           </div>
           <div className="lg:w-1/2">
